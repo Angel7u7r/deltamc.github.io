@@ -1,0 +1,16 @@
+html, body {
+    height: 100%!important;
+}
+#containerndx {
+    min-height: 100%;
+}
+#mainndx {
+    overflow: auto!important;
+    padding-bottom: 44px!important;
+}
+#foot {
+    position: relative!important;
+    height: 44px!important;
+    margin-top: -49px!important;
+    clear: both!important;
+}
